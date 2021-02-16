@@ -1,2 +1,4 @@
 # wing-views.github.io
-Wing Views Blog
+This repository holds the aviation blog "Wing Views"
+
+
